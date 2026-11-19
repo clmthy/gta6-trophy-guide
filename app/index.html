@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Ledger — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div>
+    <h1>Leonida Ledger</h1>
+    <p class="sub">GTA VI trophy guide &amp; tracker — PlayStation 5</p>
+    <p class="makeup">55 trophies · 1 platinum · 2 gold · 6 silver · 46 bronze · all offline, none online</p>
+  </div>
+  <div class="progress-wrap">
+    <div class="big-count"><span id="earned-count">0</span><span class="of"> / 55 earned</span></div>
+    <div class="bar"><div id="bar-fill" class="bar-fill" style="width:0%"></div></div>
+    <p id="grade-counts" class="grade-counts"></p>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button type="button" class="tab active" data-view="checklist">Checklist</button>
+  <button type="button" class="tab" data-view="roadmap">Roadmap</button>
+  <button type="button" class="tab" data-view="missables">Missables</button>
+  <button type="button" class="tab" data-view="sources">Sources</button>
+</nav>
+
+<main>
+  <section id="view-checklist" class="view active">
+    <div id="next-up" class="next-up"></div>
+    <div class="controls">
+      <label>Search <input id="search" type="search" placeholder="name, description or guide…" autocomplete="off"></label>
+      <label>Kind
+        <select id="kind">
+          <option value="all">All kinds</option>
+          <option value="story">Story</option>
+          <option value="missable">Missable</option>
+          <option value="collectibles">Collectibles</option>
+          <option value="activities">Activities</option>
+          <option value="online">Online</option>
+        </select>
+      </label>
+      <label>Grade
+        <select id="grade">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="check"><input id="spoilers" type="checkbox"> Hide story spoilers</label>
+      <button id="export" type="button">Export progress</button>
+      <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
+      <button id="reset" type="button" class="quiet">Reset</button>
+    </div>
+    <p id="filter-note" class="filter-note"></p>
+    <ul id="rows" class="rows"></ul>
+  </section>
+
+  <section id="view-roadmap" class="view">
+    <h2>Roadmap to the platinum</h2>
+    <p class="lede">Difficulty 4/10 · about 200 hours (PowerPyx; Push Square says 250+ hours) · every trophy is offline. Play in this order and nothing is wasted.</p>
+    <ol class="phases">
+      <li>
+        <h3>Phase 1 — Play the story <span class="phase-count" id="phase-story"></span></h3>
+        <p>Play Chapters 1–4 and the final mission, and finish the named story missions as they appear (Gone Fishing, Breakfast Run, The Cartel Heist, Child's Play, Headliners, VCIA Takedown, Operation Savage Glory). That earns the four chapter trophies, the final-mission gold, the opening mission and every named-mission trophy — 12 in all. Story trophies cannot be missed, and missions can be replayed from the mission replay menu after you beat the game.</p>
+        <p class="warn">Do the Chapter 1 kitchen meditation when you see it — see Missables. It is the one thing that might not come back.</p>
+      </li>
+      <li>
+        <h3>Phase 2 — Strangers, activities and the world <span class="phase-count" id="phase-side"></span></h3>
+        <p>Work the stranger strands (Andy, Kenton, Billy, Randy, Tyrone, Bret and the rest) — eight full strands earn the Strangers &amp; Freaks silver. Try every activity once, then chase the activity trophies: gold the shooting range, win the drone races and the 20 races, beat Cal at fishing, bowl at Kolt &amp; Associates. Explore Leonida as you go — the map, the vehicles and the WAiNK It locations all count toward later trophies.</p>
+      </li>
+      <li>
+        <h3>Phase 3 — Cleanup to 100% <span class="phase-count" id="phase-clean"></span></h3>
+        <p>Finish what is left: 50 challenges, the card sets, the garage properties, the vehicle registrations, the bank vaults and the marked-bill laundering. Then check the 100% list — 100 objectives in total, including all 16 Strangers &amp; Freaks missions — and close it out for the A Long Road gold. 100% is not missable, so take your time.</p>
+      </li>
+    </ol>
+    <div class="hundred">
+      <h3>What 100% completion needs</h3>
+      <p>100 objectives in the game: every story mission, all 16 Strangers &amp; Freaks missions, every side activity and the collectibles that count toward completion. Nothing in 100% is missable. Source: PowerPyx 100% completion checklist.</p>
+    </div>
+  </section>
+
+  <section id="view-missables" class="view">
+    <h2>Missables</h2>
+    <p class="lede">Good news first: <strong>no trophy is confirmed missable.</strong> PowerPyx's guide lists no missable trophies, and story missions can be replayed from the mission replay menu after you beat the game.</p>
+    <div class="miss-card">
+      <h3>⚠ One possible exception — unconfirmed</h3>
+      <p><strong>Positive Mental Attitude</strong> — meditate at every spot across Leonida. Push Square flags a Chapter 1 moment: Lucia can meditate in her kitchen in Chapter 1, and Push Square says if you skip it you cannot go back to it later. PowerPyx says meditation is also available in the open world after the story, but does not confirm it is the same meditation. So: <strong>do the kitchen meditation the first time you see it in Chapter 1.</strong> Do not skip it and hope. Sources: Push Square trophy guide; PowerPyx trophy guide.</p>
+    </div>
+    <p>Every other trophy can be earned after the story. If a trophy's guide below says its method is not public yet, that is honest — the game launched 2026-11-19 and some methods are still unconfirmed, not invented here.</p>
+    <p id="spoiler-state" class="filter-note"></p>
+  </section>
+
+  <section id="view-sources" class="view">
+    <h2>Sources</h2>
+    <p class="lede">Every guide in this app names its sources beside it. The names, descriptions and grades come from the official list (Exophase and PSNProfiles, agreeing on every one). The how-to comes from the guides below — and where a method is not public yet, the guide says so instead of inventing one.</p>
+    <ul class="source-list">
+      <li><strong>Official trophy list (Exophase)</strong> — names, descriptions and grades of all 55 trophies.</li>
+      <li><strong>Official trophy list (PSNProfiles)</strong> — names, descriptions, grades and PSN counts; agrees with Exophase on every name, description and grade.</li>
+      <li><strong>PowerPyx trophy guide &amp; roadmap</strong> — story replay, difficulty and time estimates, missable check.</li>
+      <li><strong>PowerPyx 100% completion checklist</strong> — the 100 objectives and the 16 Strangers &amp; Freaks missions.</li>
+      <li><strong>PowerPyx shooting-range guide</strong> — the range's location, weapon types and gold rule.</li>
+      <li><strong>PowerPyx drone-race guide</strong> — the Top Fun race locations.</li>
+      <li><strong>Push Square trophy guide (WIP)</strong> — the possible Chapter 1 meditation missable.</li>
+    </ul>
+    <p class="lede">The guides themselves are this app's own words, written from the official descriptions — never copied from any source. Where two launch-day sources disagree (the shooting-range count, the drone-race count, the stunt count), the guide says so and follows the official description.</p>
+  </section>
+</main>
+
+<div id="detail" class="detail" hidden>
+  <div class="detail-card">
+    <button id="detail-close" type="button" class="detail-close">✕ Close</button>
+    <p id="detail-grade" class="detail-grade"></p>
+    <h2 id="detail-name"></h2>
+    <p id="detail-desc" class="detail-desc"></p>
+    <p id="detail-kind" class="detail-kind"></p>
+    <p id="detail-missable" class="detail-missable" hidden></p>
+    <h3>How to get it</h3>
+    <p id="detail-guide" class="detail-guide"></p>
+    <p id="detail-sources" class="detail-sources"></p>
+    <label class="note-label">Your note
+      <textarea id="detail-note" rows="3" placeholder="e.g. 3 of 8 strands done — Bret's hunt is next"></textarea>
+    </label>
+    <button id="detail-toggle" type="button">Mark earned</button>
+  </div>
+</div>
+
+<footer>
+  <p>Leonida Ledger — an offline guide and tracker for GTA VI's 55 PlayStation 5 trophies. Your progress never leaves this browser. Not affiliated with Rockstar Games; no Rockstar logo or artwork is used anywhere in this app.</p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>

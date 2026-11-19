@@ -1,0 +1,559 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "kind": "story",
+   "missable": false,
+   "guide": "Earn the platinum by unlocking every other trophy in the game — all 54 of them, from the story chapters to 100% completion. There is no shortcut: the platinum pops the moment the last of the 54 is yours. Work through the roadmap in order — story first, side content second, cleanup last — and this one takes care of itself.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish the mission Gone Fishing. It is the game's opening mission, so it comes naturally at the start of the story and cannot be missed — just play from the beginning and it pops when the mission ends.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 1 of the story. Story trophies cannot be missed, and missions can be replayed from the mission replay menu after you beat the game, so just keep playing the story and this pops at the chapter's end.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 2 of the story. Like every chapter trophy it cannot be missed — play the story through and it pops at the chapter's end. If you ever need to redo a mission, the mission replay menu opens after you beat the game.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 3 of the story. Chapter trophies cannot be missed; keep playing the story and it pops at the chapter's end. Missions can be replayed from the mission replay menu once the game is beaten.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Finish Chapter 4 of the story. Chapter trophies cannot be missed — play the story through and it pops at the chapter's end. The mission replay menu, open after you beat the game, covers any mission you want to redo.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the final mission of the story. This is the campaign's last mission, so it pops when you finish the story; like every story trophy it cannot be missed, and the mission can be replayed afterwards from the mission replay menu.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Breakfast Run. Play through the story until this mission appears and finish it; story missions can be replayed from the mission replay menu if you ever need to.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission The Cartel Heist. It appears as you play through the story — finish it and the trophy pops. Story missions can be replayed from the mission replay menu after the game is beaten.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Child's Play. Play the story until this mission appears and finish it; story missions can be replayed from the mission replay menu if you ever need to.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Headliners. It comes up as you play through the story — finish it and the trophy pops. Story missions can be replayed from the mission replay menu after the game is beaten.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission VCIA Takedown. Play the story until this mission appears and finish it; story missions can be replayed from the mission replay menu if you ever need to.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the mission Operation Savage Glory. It appears as you play through the story — finish it and the trophy pops. Story missions can be replayed from the mission replay menu after the game is beaten.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "kind": "story",
+   "missable": false,
+   "guide": "Reach 100% completion. PowerPyx's 100% checklist counts 100 objectives in the game: every story mission, all 16 Strangers & Freaks missions, every side activity and the collectibles that count toward completion. Nothing in 100% is missable, and story missions can be replayed from the mission replay menu, so this is a long cleanup trophy, not a race — save it for after the story.",
+   "sources": ["official trophy description", "PowerPyx 100% completion checklist"]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Pull off 250 stunts, as the official description counts them. Stunts are the game's driving stunt actions — jumps, near misses and the like — and the counter runs across the whole game, so they build up naturally as you drive. One launch-day note (PowerPyx) mentions 24 unique stunt jumps instead; the official description's 250 is the number this guide follows.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Try each type of activity once. The bundled starter data lists nine activity types in the game — play one round or one session of each and the trophy pops. Activities include the shooting range, drone races, fishing, bowling, darts and pool among others.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Earn a gold medal in every Shooting Range challenge. The range sits in the back room of an Ammu-Nation store, and each challenge covers a different weapon type — pistols, SMGs, shotguns, rifles, snipers, heavy weapons and throwables — with three parts that must all finish inside the time limit for gold. Launch-day sources disagree on the count (PowerPyx's shooting-range page lists 12 challenges; the bundled starter data lists 42), so gold every challenge the range offers and let the in-game list decide.",
+   "sources": ["official trophy description", "PowerPyx shooting-range guide"]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Win a Top Fun Drone Race at every location. PowerPyx's drone-race page lists 10 races; the bundled starter data lists 14 locations — the two counts disagree on launch day, so win at every location the game offers and the trophy pops when the last one is done.",
+   "sources": ["official trophy description", "PowerPyx drone-race guide"]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Win 20 different races. Any 20 distinct races count — road races, drone races and the rest — so work through the race types as you meet them; winning the same race twice does not count twice.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  }
+,
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Beat Cal in a fishing challenge. Fishing is one of the game's activities — find Cal, take the fishing challenge he offers and out-fish him.",
+   "sources": ["official trophy description", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Complete an arcade game. Find an arcade machine in the world and finish a game on it — any game counts, just see it through to the end.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the final mission for Andy. Andy is one of the stranger contacts whose mission strand builds across the game; finish his last mission and the trophy pops.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the final mission for Kenton. Kenton's mission strand builds across the game; finish his last mission and the trophy pops.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the final mission for Billy. Billy's mission strand builds across the game; finish his last mission and the trophy pops.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete 8 mission strands for strangers across the state of Leonida. Stranger strands are the side missions for odd characters around the map — finish eight full strands. Note the separate 100% figure: PowerPyx's 100% checklist says 16 Strangers & Freaks missions count toward 100% completion, which is a different requirement from this trophy's 8 strands.",
+   "sources": ["official trophy description", "PowerPyx 100% completion checklist"]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the final mission for Randy. Randy's mission strand builds across the game; finish his last mission and the trophy pops.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "guide": "Complete the final mission for Tyrone. Tyrone's mission strand builds across the game; finish his last mission and the trophy pops.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "kind": "missable",
+   "missable": "possible",
+   "guide": "Meditate at every spot across Leonida. The bundled starter data lists 18 meditation spots. One warning: Push Square flags a possible missable here — in Chapter 1, Lucia can meditate in her kitchen, and Push Square says if you skip it you cannot go back to it later. PowerPyx says meditation is also available in the open world after the story, but does not confirm it is the same meditation, so do the kitchen meditation the first time you see it in Chapter 1, then sweep the remaining spots after the story.",
+   "sources": ["official trophy description", "Push Square trophy guide", "PowerPyx trophy guide"]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Hunt a unique animal for Bret. Bret's strand is a hunting one — follow his missions until the unique animal hunt opens, then take the animal down.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Complete 3 Collectible Card sets. Cards are a collectible scattered around Leonida — gather full sets, and three completed sets pop the trophy. Nothing about the cards is missable, so collect them as you explore and finish the sets in cleanup.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "WAiNK It at 100 locations. WAiNK It is the game's photo and location check-in activity — visit 100 distinct locations and WAiNK It at each. It pairs naturally with exploring all of Leonida, so do it as you travel rather than as a separate grind.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Complete 50 Challenges. Challenges are the game's side objectives — they stack up across activities, driving, combat and exploration, so this pops naturally on the road to 100% if you vary what you do instead of repeating one thing.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Lose a 4-star wanted level with your partner and escape the heat. Get the police to 4 stars while your partner is with you, then break line of sight and stay out of the search area until the wanted level clears. A quiet stretch of countryside and a fast car help.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level. Hit three shops in a row with your partner along, keeping the wanted level alive between robberies — do not let it clear and do not get caught. Plan a route of three close shops and move fast.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Discover 100 vehicles. Discovering means finding new vehicle models in the world — drive around Leonida, check parking lots, traffic and dealerships, and the count climbs as you encounter models you have not seen before.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the slow-down aiming mode — trigger it in a firefight with at least five enemies in view and drop all five before it ends. Pick a crowded fight and make every shot count.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Make an unscheduled departure at VCIA. VCIA is the Vice City International Airport — leave it in a way the airport did not schedule, which in practice means stealing a plane and taking off rather than using a booked flight.",
+   "sources": ["official trophy description"]
+  }
+,
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "The official description is a joke with no instructions: 'Kinda hot in these Rhinos.' Rhinos are the game's tanks, so this trophy is tied to tank action — but no detailed method is public on launch day (2026-11-19). One launch-day note suggests escaping a 3-star wanted level in a tank; that is unconfirmed, so treat it as a lead, not a fact.",
+   "sources": ["official trophy description", "PowerPyx trophy guide (unconfirmed)"]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Rob a jewelry store without being detected. Case the store, go in quiet, take the goods and leave before anyone raises the alarm — no cameras tripped, no witnesses. If you are spotted, the attempt fails, so plan the exit before you go in.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Rob 5 bank vaults and escape. Five separate bank vault robberies, each ending with a clean getaway — the escape counts, so do not get caught after the vault is open.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Rob an armored truck and escape. Find an armored truck on the road, hit it, take the cash and get away clean.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Explore all of Leonida. The bundled starter data lists 52 areas — visit every one, from Vice City's streets to the far corners of the state, and the trophy pops when the last area registers. The in-game map tracks where you have been.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Rob an illegal operation belonging to each gang. The bundled starter data lists nine gangs — hit one illegal operation for every gang in the state. Each gang's operations are marked in their territory, so work through the map gang by gang.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. Go to Ocean Beach, order a cocktail and take in the view — a quiet moment trophy, not a challenge.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Smash your way out of a vehicle showroom in classic style. Drive a car through a vehicle showroom's glass and out the other side — the 'classic style' is the old-school smash-and-grab exit, so pick a showroom with a clear run out.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Follow through at the Kolt & Associates' bowling alley. Go to the Kolt & Associates bowling alley and bowl a game — any game counts, just finish it.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "The official description is cryptic — 'A partnership with mass appeal' — and no detailed method is public on launch day (2026-11-19). It reads like a co-op or partner-activity trophy, but that is a guess; this guide does not invent a method where none is published.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "The official description is cryptic — 'Choices made (for better or worse)' — and no detailed method is public on launch day (2026-11-19). It appears to track story choices, but which choices and how many is not published yet.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "The official description is a shrug — 'Second time's the charm' — and no detailed method is public on launch day (2026-11-19). The wording suggests succeeding on a second attempt at something, but that is a guess, not a published method.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "The official description is a question — 'What the hell just happened?' — and no confirmed method is public on launch day (2026-11-19). One launch-day note suggests a UFO sighting; that is unconfirmed, so treat it as a lead, not a fact.",
+   "sources": ["official trophy description", "PowerPyx trophy guide (unconfirmed)"]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Bowl 'em over with a melee drive-by. Despite the bowling-sounding name, the official description is about a melee drive-by — knock someone down with a melee attack from a moving vehicle. Line up a slow drive-by past a pedestrian and swing as you pass.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills are dirty money from heists — pass $250,000 of them through your laundering contacts and the trophy pops. This is a long grind, so start laundering early.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "kind": "activities",
+   "missable": false,
+   "guide": "Spend $100,000 across all shops. Any shops count — clothes, weapons, food, car parts — and the total is cumulative across the whole game, so it pops naturally if you spend as you play.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Purchase all garage properties. The bundled starter data lists eight garage properties — buy every one and the trophy pops. Garages are bought through the in-game property market, so save up and work through the list.",
+   "sources": ["official trophy description"]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "kind": "collectibles",
+   "missable": false,
+   "guide": "Register 10 vehicles to the Scooter Bros app. The Scooter Bros app is the game's vehicle service — register ten different vehicles to it and the trophy pops.",
+   "sources": ["official trophy description"]
+  }
+ ]
+}
